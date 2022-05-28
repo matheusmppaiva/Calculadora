@@ -1,5 +1,7 @@
 # Calculadora
 
+[![Calc Java CI](https://github.com/matheusmppaiva/Calculadora/actions/workflows/maven.yml/badge.svg)](https://github.com/matheusmppaiva/Calculadora/actions/workflows/maven.yml)
+
 ## Autor:
 ### *Matheus Magalhães de Paula Paiva*
 
